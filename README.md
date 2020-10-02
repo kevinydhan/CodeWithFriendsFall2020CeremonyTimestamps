@@ -43,7 +43,7 @@ Below are timestamps and transcriptions for @hellomayuko's Code With Friends Fal
 ## Transcribed Questions
 
 - [How did you come up with this event idea?](#how-did-you-come-up-with-this-event-idea)
-- [Do you have to finish your question before October 30th?](#do-you-have-to-finish-your-question-before-october-30th)
+- [Do you have to finish your project before October 30th?](#do-you-have-to-finish-your-project-before-october-30th)
 - [Can you work on older, existing projects during this event?](#can-you-work-on-older-existing-projects-during-this-event)
 - [How do I know when to quit a project?](#how-do-i-know-when-to-quit-a-project)
 - [Within a check-in group, is it five people working on a project idea or one person working on his or her own project idea? Or is it completely up to us?](#within-a-check-in-group-is-it-five-people-working-on-a-project-idea-or-one-person-working-on-his-or-her-own-project-idea-or-is-it-completely-up-to-us)
@@ -78,7 +78,7 @@ Timestamp: https://www.twitch.tv/videos/757458657?t=29m10s
 
 <br>
 
-> #### _Do you have to finish your question before October 30th?_
+> #### _Do you have to finish your project before October 30th?_
 
 No, you don’t have to finish your project. You just have to submit something. You can keep working on your project past October 30th.
 
